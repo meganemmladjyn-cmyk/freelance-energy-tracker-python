@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=Streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/status-live-brightgreen)
 
-**Live demo:** [TBD] (synthetic data, dashboard in French)
+**Live demo:** [https://freelance-energy-tracker-python-dchf9u7nqcifciv9jgbtqz.streamlit.app/] (synthetic data, dashboard in French)
 
 ![Energy tab](assets/energie.png)
 
