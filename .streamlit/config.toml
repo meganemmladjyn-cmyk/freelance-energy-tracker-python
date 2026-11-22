@@ -1,0 +1,8 @@
+# Thème du dashboard, aligné sur la charte LinkedIn (couleurs approximatives)
+[theme]
+base = "light"
+primaryColor = "#5B4BDB"
+backgroundColor = "#F6F5FF"
+secondaryBackgroundColor = "#E8E6FB"
+textColor = "#1E1B3A"
+font = "sans serif"

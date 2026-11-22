@@ -1,0 +1,19 @@
+data/raw/*.xlsx
+data/processed/*.csv
+venv/
+
+# Données personnelles : ne jamais publier
+data/raw/
+data/processed/
+
+# Notebook d'analyse sur données réelles (commentaires personnels)
+notebooks/
+__marimo__/
+
+# Environnement et caches Python
+venv/
+__pycache__/
+
+# Compétences installées pour Claude Code et autres agents
+.agents/
+.claude/
